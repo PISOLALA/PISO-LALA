@@ -1,4 +1,4 @@
-# Hi, I am [PEACE WILSON]
+# Hi, I am PEACE WILSON
 ### Finance Professional & Data Analyst
 
 I bridge the gap between complex financial operations and data engineering. I leverage SQL, Python & business intelligence tools, to automate financial workflows, ensure ledger integrity and build predictive models.
